@@ -1,8 +1,8 @@
 {
-  "name": "starter_code",
+  "name": "classroom",
   "version": "1.0.0",
   "description": "Template for node exercises",
-  "main": "hello.js",
+  "main": "solution.js",
   "directories": {
     "test": "test"
   },
