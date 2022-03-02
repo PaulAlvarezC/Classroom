@@ -1,15 +1,15 @@
 var exercise = {};
 
 exercise.first = function(){
-    return 'Success: 1st function works!';    
+    return 'Success: ';    
 };
 
 exercise.second = function(greeting){
-    return 'Success: 2nd function works!';    
+    return 'Success: ';    
 };
 
 exercise.third = function(user){
-    return 'Success: 3rd function works!';
+    return 'Success: ';
 };
 
 module.exports = exercise;
